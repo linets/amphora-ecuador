@@ -12,6 +12,25 @@
     "608f3ae5-b1cf-4082-919f-3ead2712d478": {
       "type": "slideshow",
       "blocks": {
+        "slide_tCzm63": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/amphora-days-dk.gif",
+            "image_mobile": "shopify://shop_images/banner-amphoradays-mobil.gif",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/amphora-days",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_PieiRi": {
           "type": "slide",
           "settings": {
@@ -33,6 +52,7 @@
         },
         "slide_i8paid": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/SALEAW24-DK.gif",
             "image_mobile": "shopify://shop_images/SALEAW24-MB.gif",
@@ -49,32 +69,12 @@
             "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_tCzm63": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/NIGHT_EDITION_DK.jpg",
-            "image_mobile": "shopify://shop_images/NIGHT_EDITION_MB.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://collections/carteras-crossbodies",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
+        "slide_tCzm63",
         "slide_PieiRi",
-        "slide_i8paid",
-        "slide_tCzm63"
+        "slide_i8paid"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -209,15 +209,14 @@
         },
         "slide_hiKTCy": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Banners_Desk_Trinus_Men.jpg",
-            "image_mobile": "shopify://shop_images/Banners_Mobile_Trinus_Men.jpg",
+            "image": "shopify://shop_images/EMMA-DK.gif",
+            "image_mobile": "shopify://shop_images/EMMA-MB1.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "https://amphora.pe/collections/trinus?sort_by=best-selling&filter.p.m.custom.genero=Hombre&filter.v.price.gte=&filter.v.price.lte=",
+            "link": "",
             "button_style_secondary": false,
             "box_align": "middle-right",
             "show_text_box": true,
