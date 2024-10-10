@@ -34,6 +34,7 @@
         "slide_PieiRi": {
           "type": "slide",
           "settings": {
+            "image_mobile": "shopify://shop_images/Banner-Mobile_SS25.webp",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
