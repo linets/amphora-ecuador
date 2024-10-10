@@ -15,8 +15,8 @@
         "slide_tCzm63": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/amphora-days-dk.gif",
-            "image_mobile": "shopify://shop_images/banner-amphoradays-mobil.gif",
+            "image": "shopify://shop_images/Banner-desktop_SS25.png",
+            "image_mobile": "shopify://shop_images/Banner-Mobile_SS25.webp",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -71,8 +71,7 @@
       },
       "block_order": [
         "slide_tCzm63",
-        "slide_PieiRi",
-        "slide_i8paid"
+        "slide_PieiRi"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -183,8 +182,6 @@
         "slide_CeHwqL": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Banner-web_Best-sellers_Chiara-y-Hera-Blanco.jpg",
-            "image_mobile": "shopify://shop_images/Banner-mobile_Best-sellers_Chiara-y-Hera-Blanco.jpg",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
@@ -202,8 +199,6 @@
         "slide_hiKTCy": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/EMMA-DK.gif",
-            "image_mobile": "shopify://shop_images/EMMA-MB1.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
