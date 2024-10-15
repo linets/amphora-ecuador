@@ -1,46 +1,28 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
-{
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+ {
   "sections": {
     "608f3ae5-b1cf-4082-919f-3ead2712d478": {
       "type": "slideshow",
       "blocks": {
-        "slide_tCzm63": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Banner-desktop_SS25.png",
-            "image_mobile": "shopify://shop_images/Banner-Mobile_SS25.webp",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://collections/amphora-days",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_PieiRi": {
           "type": "slide",
+          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Banner-desktop_SS25.png",
-            "image_mobile": "shopify://shop_images/Banner-Mobile_SS25.webp",
+            "image": "shopify://shop_images/amphora-days-dk_1.gif",
+            "image_mobile": "shopify://shop_images/banner-amphoradays-mobil_1.gif",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/new-in",
+            "link": "shopify://collections/amphora-days",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": false,
@@ -50,17 +32,18 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_i8paid": {
+        "slide_tCzm63": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "heading": "Image slide",
+            "image": "shopify://shop_images/Banner-desktop_SS25.png",
+            "image_mobile": "shopify://shop_images/Banner-Mobile_SS25.webp",
+            "heading": "",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "shopify://collections/sale",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/new-in",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "bottom-left",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
@@ -70,8 +53,8 @@
         }
       },
       "block_order": [
-        "slide_tCzm63",
-        "slide_PieiRi"
+        "slide_PieiRi",
+        "slide_tCzm63"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -90,33 +73,37 @@
         "template--21506872606913__fd8003f0-fa91-4c7d-8f99-2bb233dd3615-column-1": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/cartera_AW24_vs_2.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/carteras-carteras-dos-asas"
+            "link": "shopify://collections/carteras-dos-asas"
           }
         },
         "template--21506872606913__fd8003f0-fa91-4c7d-8f99-2bb233dd3615-column-2": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/mochila-AW24.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/mochilas"
+            "link": "shopify://collections/mochilas-categoria"
           }
         },
         "template--21506872606913__fd8003f0-fa91-4c7d-8f99-2bb233dd3615-column-3": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/crossbody_AW24_2.0.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/carteras-crossbodies"
+            "link": "shopify://collections/crossbodies"
           }
         },
         "column_wtWDwW": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/billeteras_AW24.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -126,15 +113,17 @@
         "column_PeWwAD": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/joyeria_AW24.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/accesorios-joyeria"
+            "link": "shopify://collections/joyeria"
           }
         },
         "column_YY8gG4": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/hanging_AW24.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -182,6 +171,8 @@
         "slide_CeHwqL": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/Banner-web_Best-sellers_Chiara-y-Hera-Blanco_1.jpg",
+            "image_mobile": "shopify://shop_images/Banner-mobile_Best-sellers_Chiara-y-Hera-Blanco_1.jpg",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
@@ -199,6 +190,8 @@
         "slide_hiKTCy": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/EMMA-DK_1.gif",
+            "image_mobile": "shopify://shop_images/EMMA-MB1_1.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -284,28 +277,31 @@
     "multicolumn_kwyjkY": {
       "type": "multicolumn",
       "blocks": {
-        "column_b6GdbQ": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://collections/carteras-crossbodies"
-          }
-        },
         "column_YHLmqw": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/CARTERAS-SS25.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/mochilas"
+            "link": "shopify://collections/crossbodies"
+          }
+        },
+        "column_b6GdbQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/MOCHILAS-SS25.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/mochilas-categoria"
           }
         },
         "column_G3dm4m": {
           "type": "column",
           "disabled": true,
           "settings": {
+            "image": "shopify://shop_images/Amphora_carteras.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -316,16 +312,17 @@
           "type": "column",
           "disabled": true,
           "settings": {
+            "image": "shopify://shop_images/Amphora_mochilas_dc991ff9-b711-4bd7-84d8-62285da3fe23.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/mochilas-mochilas"
+            "link": "shopify://collections/mochilas"
           }
         }
       },
       "block_order": [
-        "column_b6GdbQ",
         "column_YHLmqw",
+        "column_b6GdbQ",
         "column_G3dm4m",
         "column_xECJfX"
       ],
@@ -435,6 +432,7 @@
         "column_jeKyUM": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Envi_o_a_Domicilio_1_240x_fb52a586-6f9b-4682-aa6d-eef4dcad4af9.png",
             "title": "<strong>ENVIO A NIVEL NACIONAL</strong>",
             "text": "<p>Despachos a nivel nacional.</p>",
             "link_label": "",
@@ -444,6 +442,7 @@
         "column_nBq4iX": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Cambios_y_Devoluciones_1_240x_88473078-3d87-499e-90b0-777452f2a71f.png",
             "title": "<strong>CAMBIOS Y DEVOLUCIONES</strong>",
             "text": "<p>Hasta 30 dias después de recibida la compra</p>",
             "link_label": "",
@@ -453,6 +452,7 @@
         "column_HKPHdV": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Financiacio_n_1_240x_e3c3e23b-d01d-47d6-8690-d97cb7dcf03d.png",
             "title": "<strong>COMPRA SEGURA</strong>",
             "text": "<p>Con cualquier medio de pago</p>",
             "link_label": "",
@@ -462,6 +462,7 @@
         "column_9mV8ax": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Pick_up_1_240x_e3e7e410-a157-49a0-980a-9df9706e42ea.png",
             "title": "<strong>RETIRO EN TIENDA</strong>",
             "text": "<p>Sin costo de envio y en tiendas Amphora</p>",
             "link_label": "",
