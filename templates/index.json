@@ -7,7 +7,7 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
- {
+{
   "sections": {
     "608f3ae5-b1cf-4082-919f-3ead2712d478": {
       "type": "slideshow",
@@ -316,7 +316,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/mochilas"
+            "link": "shopify://collections/mochilas-mochilas"
           }
         }
       },
