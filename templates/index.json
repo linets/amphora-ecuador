@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "608f3ae5-b1cf-4082-919f-3ead2712d478": {
@@ -107,7 +107,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/mochilas"
+            "link": "shopify://collections/mochilas-mochilas"
           }
         },
         "template--21506872606913__fd8003f0-fa91-4c7d-8f99-2bb233dd3615-column-3": {
@@ -263,26 +263,6 @@
     },
     "1718739951a016ac1d": {
       "type": "apps",
-      "blocks": {
-        "retail_rocket_personalization_markups_izrt3q": {
-          "type": "shopify://apps/retail-rocket-personalization/blocks/markups/eb06115a-3169-4b5b-a921-16aac205bb7d",
-          "settings": {
-            "rrMarkupCode": "65df285b682ae6945d3f6a02",
-            "rrEmptyMarkupCode": ""
-          }
-        },
-        "retail_rocket_personalization_markups_ExR6wz": {
-          "type": "shopify://apps/retail-rocket-personalization/blocks/markups/eb06115a-3169-4b5b-a921-16aac205bb7d",
-          "settings": {
-            "rrMarkupCode": "65df27048e6a3ed9214d722b",
-            "rrEmptyMarkupCode": ""
-          }
-        }
-      },
-      "block_order": [
-        "retail_rocket_personalization_markups_izrt3q",
-        "retail_rocket_personalization_markups_ExR6wz"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -337,7 +317,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/mochilas"
+            "link": "shopify://collections/mochilas-mochilas"
           }
         },
         "column_G3dm4m": {
@@ -390,18 +370,6 @@
     },
     "170984209487822a28": {
       "type": "apps",
-      "blocks": {
-        "retail_rocket_personalization_markups_dXWTew": {
-          "type": "shopify://apps/retail-rocket-personalization/blocks/markups/eb06115a-3169-4b5b-a921-16aac205bb7d",
-          "settings": {
-            "rrMarkupCode": "65df28388e6a3ed9214d725e",
-            "rrEmptyMarkupCode": ""
-          }
-        }
-      },
-      "block_order": [
-        "retail_rocket_personalization_markups_dXWTew"
-      ],
       "settings": {
         "include_margins": true
       }
