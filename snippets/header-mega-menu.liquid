@@ -74,7 +74,6 @@
                     {%- endfor -%}
                   </div>
                   {% for item in shop.metaobjects.megamenu_content.values %}
-                    {{ item | json }}
                     {%- assign title = item.title | downcase -%}
                     {% if title == title_downcase %}
                       <div>
