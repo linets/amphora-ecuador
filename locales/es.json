@@ -415,7 +415,7 @@
       "company": "Documento de identidad",
       "address1": "Dirección (Calle, Número y Dpto) ",
       "address2": "Referencia",
-      "city": "Provincia",
+      "city": "Departamento",
       "country": "País/región",
       "province": "Departamento",
       "zip": "Distrito",
@@ -537,7 +537,7 @@
       "contact": {
         "company_label": "Documento de identidad",
         "optional_company_label": "Documento de identidad",
-        "city_label": "Provincia",
+        "city_label": "Departamento",
         "zip_code_label": "Distrito",
         "zip_code_placeholder": "Distrito",
         "postal_code_label": "Distrito",
@@ -552,7 +552,9 @@
         "region_placeholder": "Departamento",
         "last_name_label": "Apellido / Razón social",
         "optional_last_name_label": "Apellido / Razón social",
-        "optional_first_name_label": "Nombre (No completar para factura)"
+        "optional_first_name_label": "Nombre (No completar para factura)",
+        "governorate_label": "Departamento",
+        "governorate_placeholder": "Departamento"
       },
       "field_errors": {
         "address_company_blank": "Introduce un número de documento",
@@ -562,6 +564,10 @@
     },
     "attributes": {
       "last_name": "Apellido / Razón social"
+    },
+    "addresses": {
+      "province": "Departamento",
+      "governorate": "Departamento"
     }
   }
 }
