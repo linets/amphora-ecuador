@@ -461,6 +461,7 @@
         },
         "column_9mV8ax": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Pick_up_1_240x_e3e7e410-a157-49a0-980a-9df9706e42ea.png",
             "title": "<strong>RETIRO EN TIENDA</strong>",
@@ -492,7 +493,7 @@
         "heading_size": "h1",
         "image_width": "half",
         "image_ratio": "square",
-        "columns_desktop": 4,
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
